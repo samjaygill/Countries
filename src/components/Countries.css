@@ -1,0 +1,35 @@
+.button {
+  border: none;
+  background-color: transparent;
+}
+.arrow-icon {
+  color: white;
+}
+
+/* .details {
+  font-size: 13px;
+} */
+
+.currencies {
+  list-style: none;
+}
+
+.languages {
+  list-style: none;
+}
+
+.country-detail {
+  display: block;
+}
+
+.expand {
+  margin: 10px;
+  padding: 10px;
+  display: block;
+  font-size: 10px;
+  border: 1px solid #323234;
+  margin-top: 10px;
+  margin-right: 30%;
+  margin-bottom: 10px;
+  margin-left: 30%;
+}

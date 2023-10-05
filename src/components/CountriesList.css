@@ -1,0 +1,13 @@
+.country-list{
+    font-size: 20px;
+    text-align: center;
+}
+.country-header{
+    padding-bottom: 0;
+    font-size: 30px;
+}
+ .hr-style {
+    border: 1px solid #323234; 
+  margin: 10px 0; 
+}
+

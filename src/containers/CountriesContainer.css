@@ -1,0 +1,7 @@
+.body{
+    background-image: 'world.jpeg';
+}
+
+.main-container{
+    background-image: src('./world.jpeg');
+}
